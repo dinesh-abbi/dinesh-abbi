@@ -95,20 +95,20 @@ const dinesh = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dinesh-abbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dinesh-abbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-abbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-abbi&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=dinesh-abbi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dinesh-abbi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh-abbi&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
