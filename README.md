@@ -3,10 +3,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1d4ed8&text=Dinesh%20Abbi&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Systems&descColor=93c5fd&descSize=16&descAlignY=60"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+%7C+TypeScript+%7C+NestJS+%7C+PostgreSQL;Building+AI-powered+products+at+Teleparadigm;10%2C000%2B+students+across+4+colleges;Exploring+Local+LLMs+%26+AI+Agents" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nestjs,postgres,tailwind,nodejs" />
 </p>
 
 <p align="center">
+  <sub>Building AI-powered products at Teleparadigm · Exploring Local LLMs & AI Agents</sub>
+</p>
+
+<p align="center">
+  <a href="https://dinesh-abbi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/dinesh-abbi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
