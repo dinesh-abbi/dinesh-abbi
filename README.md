@@ -101,21 +101,20 @@ const dinesh = {
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://my-github-stats-ecru-phi.vercel.app/api?username=dinesh-abbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170em" src="https://my-github-stats-ecru-phi.vercel.app/api/top-langs/?username=dinesh-abbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://my-github-stats-ecru-phi.vercel.app/api?username=dinesh-abbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="165" src="https://my-github-stats-ecru-phi.vercel.app/api/top-langs/?username=dinesh-abbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=dinesh-abbi&theme=tokyonight&hide_border=true&v=1"/>
-
+  <img src="https://streak-stats.demolab.com/?user=dinesh-abbi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh-abbi&theme=tokyo-night&hide_border=true&area=true"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinesh-abbi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
